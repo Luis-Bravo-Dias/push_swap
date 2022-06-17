@@ -6,7 +6,7 @@
 /*   By: lleiria- <lleiria-@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/10/26 10:05:06 by lleiria-          #+#    #+#             */
-/*   Updated: 2021/11/10 12:09:00 by lleiria-         ###   ########.fr       */
+/*   Updated: 2022/06/16 18:07:01 by lleiria-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@
 //#include <string.h>
 #include "libft.h"
 
-int	ft_atoi(const char *str)
+long int	ft_atoi(const char *str)
 {
 	size_t	n;
 	size_t	result;
